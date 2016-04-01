@@ -1,0 +1,14 @@
+layout_spectrum: 0.1415771
+typography_spectrum: 0.7360438
+color:
+  saturation: 0.6182796
+  brandStrength: 0.8763441
+  lightness: 0.4439486
+  brandColors:
+    - '#FFFFFF'
+    - '#33140E'
+    - '#EF964C'
+    - '#998A87'
+    - '#A76935'
+  rhythmicContrast: 0.5143369
+name: Gadist
